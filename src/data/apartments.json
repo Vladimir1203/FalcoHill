@@ -1,0 +1,654 @@
+[
+    {
+        "id": "stan1",
+        "label": "Stan 1",
+        "floor": "PRIZEMLJE",
+        "size": "66,85 m²",
+        "net_area": "64,84 m²",
+        "image": "stan1.png",
+        "rooms": [
+            {
+                "name": "1. Glavni ulaz",
+                "area": "4,85 m²"
+            },
+            {
+                "name": "2. Kuhinja sa trpezarijom i dnevnom sobom",
+                "area": "34,55 m²"
+            },
+            {
+                "name": "3. Hodnik",
+                "area": "1,76 m²"
+            },
+            {
+                "name": "4. Soba",
+                "area": "11,69 m²"
+            },
+            {
+                "name": "5. Soba",
+                "area": "7,00 m²"
+            },
+            {
+                "name": "6. Kupatilo",
+                "area": "7,00 m²"
+            }
+        ],
+        "coords": {
+            "ground": [
+                533,
+                306,
+                533,
+                502,
+                442,
+                502,
+                442,
+                344,
+                360,
+                344,
+                360,
+                306,
+                425,
+                306
+            ]
+        }
+    },
+    {
+        "id": "stan2",
+        "status": {
+            "ground": "available",
+            "level1": "reserved",
+            "level2": "available",
+            "level3": "available"
+        },
+        "label": "Stan 2",
+        "floor": "BOTH",
+        "size": "43,35 m²",
+        "net_area": "42,05 m²",
+        "image": "stan2.png",
+        "rooms": [
+            {
+                "name": "1. Glavni ulaz",
+                "area": "2,63 m²"
+            },
+            {
+                "name": "2. Kuhinja sa trpezarijom i dnevnom sobom",
+                "area": "25,80 m²"
+            },
+            {
+                "name": "3. Soba",
+                "area": "7,10 m²"
+            },
+            {
+                "name": "4. Kupatilo",
+                "area": "4,35 m²"
+            },
+            {
+                "name": "5. Balkon",
+                "area": "3,47 m²"
+            }
+        ],
+        "coords": {
+            "ground": [
+                444,
+                135,
+                444,
+                270,
+                462,
+                270,
+                462,
+                300,
+                533,
+                300,
+                533,
+                173,
+                487,
+                173,
+                487,
+                145
+            ],
+            "upper": [
+                452,
+                137,
+                452,
+                286,
+                472,
+                286,
+                472,
+                320,
+                549,
+                320,
+                549,
+                163
+            ]
+        }
+    },
+    {
+        "id": "stan3",
+        "label": "Stan 3",
+        "floor": "BOTH",
+        "size": "68,40 m²",
+        "net_area": "66,35 m²",
+        "image": "stan3.png",
+        "rooms": [
+            {
+                "name": "1. Glavni ulaz",
+                "area": "4,14 m²"
+            },
+            {
+                "name": "2. Kuhinja",
+                "area": "7,23 m²"
+            },
+            {
+                "name": "3. Trpezarija sa dnevnom sobom",
+                "area": "20,41 m²"
+            },
+            {
+                "name": "4. Hodnik",
+                "area": "6,88 m²"
+            },
+            {
+                "name": "5. Soba",
+                "area": "7,22 m²"
+            },
+            {
+                "name": "6. Soba",
+                "area": "11,00 m²"
+            },
+            {
+                "name": "7. Kupatilo",
+                "area": "4,68 m²"
+            },
+            {
+                "name": "8. Toalet",
+                "area": "2,76 m²"
+            },
+            {
+                "name": "9. Balkon",
+                "area": "4,08 m²"
+            }
+        ],
+        "coords": {
+            "ground": [
+                289,
+                93,
+                439,
+                133,
+                439,
+                268,
+                338,
+                268,
+                338,
+                207,
+                289,
+                207
+            ],
+            "upper": [
+                292,
+                95,
+                451,
+                137,
+                451,
+                286,
+                338,
+                286,
+                338,
+                217,
+                292,
+                217
+            ]
+        }
+    },
+    {
+        "id": "stan4",
+        "label": "Stan 4",
+        "floor": "BOTH",
+        "size": "63,92 m²",
+        "net_area": "62,00 m²",
+        "image": "stan4.png",
+        "rooms": [
+            {
+                "name": "1. Glavni ulaz",
+                "area": "4,20 m²"
+            },
+            {
+                "name": "2. Kuhinja sa trpezarijom i dnevnom sobom",
+                "area": "24,24 m²"
+            },
+            {
+                "name": "3. Hodnik",
+                "area": "3,71 m²"
+            },
+            {
+                "name": "4. Soba",
+                "area": "6,30 m²"
+            },
+            {
+                "name": "5. Soba",
+                "area": "10,80 m²"
+            },
+            {
+                "name": "6. Balkon",
+                "area": "5,84 m²"
+            },
+            {
+                "name": "7. Toalet",
+                "area": "2,13 m²"
+            },
+            {
+                "name": "8. Kupatilo",
+                "area": "6,70 m²"
+            }
+        ],
+        "coords": {
+            "ground": [
+                285,
+                82,
+                76,
+                15,
+                57,
+                74,
+                86,
+                83,
+                81,
+                99,
+                197,
+                133,
+                197,
+                180,
+                236,
+                180,
+                236,
+                174,
+                285,
+                174
+            ],
+            "upper": [
+                290,
+                82,
+                64,
+                13,
+                45,
+                75,
+                76,
+                83,
+                71,
+                102,
+                194,
+                138,
+                194,
+                190,
+                233,
+                190,
+                233,
+                184,
+                290,
+                184
+            ]
+        }
+    },
+    {
+        "id": "stan5",
+        "label": "Stan 5",
+        "floor": "BOTH",
+        "size": "49,36 m²",
+        "net_area": "47,88 m²",
+        "image": "stan5.png",
+        "rooms": [
+            {
+                "name": "1. Glavni ulaz",
+                "area": "4,48 m²"
+            },
+            {
+                "name": "2. Kuhinja sa trpezarijom",
+                "area": "8,90 m²"
+            },
+            {
+                "name": "3. Dnevna soba",
+                "area": "18,20 m²"
+            },
+            {
+                "name": "4. Soba",
+                "area": "10,25 m²"
+            },
+            {
+                "name": "5. Balkon",
+                "area": "3,30 m²"
+            },
+            {
+                "name": "6. Kupatilo",
+                "area": "4,23 m²"
+            }
+        ],
+        "coords": {
+            "ground": [
+                80,
+                102,
+                193,
+                137,
+                193,
+                183,
+                235,
+                183,
+                235,
+                178,
+                254,
+                178,
+                254,
+                206,
+                220,
+                206,
+                220,
+                246,
+                187,
+                246,
+                187,
+                206,
+                31,
+                206,
+                33,
+                174,
+                62,
+                174,
+                64,
+                151
+            ],
+            "upper": [
+                70,
+                104,
+                192,
+                141,
+                192,
+                193,
+                235,
+                193,
+                235,
+                186,
+                257,
+                186,
+                257,
+                216,
+                220,
+                216,
+                220,
+                260,
+                187,
+                260,
+                187,
+                216,
+                17,
+                216,
+                20,
+                182,
+                51,
+                182,
+                53,
+                155
+            ]
+        }
+    },
+    {
+        "id": "stan6",
+        "label": "Stan 6",
+        "floor": "BOTH",
+        "size": "43,47 m²",
+        "net_area": "42,17 m²",
+        "image": "stan6.png",
+        "rooms": [
+            {
+                "name": "1. Glavni ulaz",
+                "area": "5,40 m²"
+            },
+            {
+                "name": "2. Dnevna soba sa trpezarijom",
+                "area": "15,07 m²"
+            },
+            {
+                "name": "3. Kuhinja",
+                "area": "7,24 m²"
+            },
+            {
+                "name": "4. Soba",
+                "area": "8,18 m²"
+            },
+            {
+                "name": "5. Balkon",
+                "area": "3,30 m²"
+            },
+            {
+                "name": "6. Kupatilo",
+                "area": "4,28 m²"
+            }
+        ],
+        "coords": {
+            "ground": [
+                27,
+                244,
+                58,
+                244,
+                55,
+                280,
+                187,
+                280,
+                187,
+                272,
+                222,
+                272,
+                222,
+                280,
+                255,
+                280,
+                255,
+                211,
+                222,
+                211,
+                222,
+                251,
+                187,
+                251,
+                187,
+                211,
+                31,
+                211
+            ],
+            "upper": [
+                13,
+                256,
+                45,
+                256,
+                42,
+                294,
+                184,
+                294,
+                184,
+                287,
+                222,
+                287,
+                222,
+                294,
+                257,
+                294,
+                257,
+                219,
+                221,
+                219,
+                221,
+                263,
+                184,
+                263,
+                184,
+                219,
+                17,
+                219
+            ]
+        }
+    },
+    {
+        "id": "stan7",
+        "label": "Stan 7",
+        "floor": "BOTH",
+        "size": "61,61 m²",
+        "net_area": "59,76 m²",
+        "image": "stan7.png",
+        "rooms": [
+            {
+                "name": "1. Glavni ulaz",
+                "area": "5,77 m²"
+            },
+            {
+                "name": "2. Kuhinja sa trpezarijom i dnevnom sobom",
+                "area": "24,53 m²"
+            },
+            {
+                "name": "3. Hodnik",
+                "area": "1,76 m²"
+            },
+            {
+                "name": "4. Soba",
+                "area": "6,67 m²"
+            },
+            {
+                "name": "5. Soba",
+                "area": "12,00 m²"
+            },
+            {
+                "name": "6. Kupatilo",
+                "area": "5,76 m²"
+            },
+            {
+                "name": "7. Balkon",
+                "area": "5,12 m²"
+            }
+        ],
+        "coords": {
+            "ground": [
+                189,
+                277,
+                220,
+                277,
+                220,
+                282,
+                254,
+                282,
+                254,
+                343,
+                236,
+                343,
+                236,
+                370,
+                18,
+                370,
+                22,
+                320,
+                50,
+                320,
+                53,
+                282,
+                189,
+                282
+            ],
+            "upper": [
+                186,
+                290,
+                220,
+                290,
+                220,
+                296,
+                254,
+                296,
+                254,
+                363,
+                239,
+                363,
+                239,
+                390,
+                1,
+                390,
+                7,
+                335,
+                41,
+                335,
+                43,
+                298,
+                186,
+                298
+            ]
+        }
+    },
+    {
+        "id": "stan8",
+        "label": "Stan 8",
+        "floor": "SPRAT",
+        "size": "73,63 m²",
+        "net_area": "71,42 m²",
+        "image": "stan8.png",
+        "rooms": [
+            {
+                "name": "1. Glavni ulaz",
+                "area": "6,30 m²"
+            },
+            {
+                "name": "2. Kuhinja sa trpezarijom i dnevnom sobom",
+                "area": "28,58 m²"
+            },
+            {
+                "name": "3. Predprostor",
+                "area": "1,76 m²"
+            },
+            {
+                "name": "4. Soba",
+                "area": "10,81 m²"
+            },
+            {
+                "name": "5. Soba",
+                "area": "11,70 m²"
+            },
+            {
+                "name": "6. Terasa",
+                "area": "5,06 m²"
+            },
+            {
+                "name": "7. Toalet",
+                "area": "2,42 m²"
+            },
+            {
+                "name": "8. Kupatilo",
+                "area": "7,00 m²"
+            }
+        ],
+        "coords": {
+            "ground": [
+                533,
+                306,
+                533,
+                502,
+                442,
+                502,
+                442,
+                344,
+                360,
+                344,
+                360,
+                306,
+                425,
+                306
+            ],
+            "upper": [
+                549,
+                321,
+                549,
+                530,
+                422,
+                530,
+                422,
+                450,
+                448,
+                450,
+                448,
+                360,
+                363,
+                360,
+                363,
+                321
+            ]
+        }
+    }
+]
