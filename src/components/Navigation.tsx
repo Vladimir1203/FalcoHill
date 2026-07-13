@@ -42,9 +42,9 @@ export default function Navigation() {
             className="flex items-center gap-3 hover:opacity-80 transition-opacity"
           >
             <img
-              src={isScrolled ? "logo-black.png" : "logo.png"}
-              alt="Tik Invest"
-              className={`h-16 w-auto transition-all duration-300 ${!isScrolled && 'brightness-0 invert'}`}
+              src="logo.png"
+              alt="FalcoHill"
+              className="h-32 w-auto transition-all duration-300"
             />
           </button>
 

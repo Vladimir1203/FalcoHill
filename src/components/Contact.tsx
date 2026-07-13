@@ -185,7 +185,7 @@ export default function Contact() {
                 {[
                   { icon: Phone, title: 'Telefon', value: 'primary', link: 'tel:+381638025795' },
                   { icon: Mail, title: 'Email', value: 'falcohill@gmail.com', link: 'mailto:falcohill@gmail.com' },
-                  { icon: MapPin, title: 'Lokacija', value: 'Raška, Srbija', link: '#location' }
+                  { icon: MapPin, title: 'Lokacija', value: 'Kopaonik, Srbija', link: '#location' }
                 ].map((item, index) => (
                   <div key={index} className="flex items-center gap-6 p-6 bg-white rounded-2xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow group">
                     <div className="p-4 bg-surface rounded-xl group-hover:bg-secondary/10 transition-colors">

@@ -1,654 +1,1282 @@
 [
-    {
-        "id": "stan1",
-        "label": "Stan 1",
-        "floor": "PRIZEMLJE",
-        "size": "66,85 m²",
-        "net_area": "64,84 m²",
-        "image": "stan1.png",
-        "rooms": [
-            {
-                "name": "1. Glavni ulaz",
-                "area": "4,85 m²"
-            },
-            {
-                "name": "2. Kuhinja sa trpezarijom i dnevnom sobom",
-                "area": "34,55 m²"
-            },
-            {
-                "name": "3. Hodnik",
-                "area": "1,76 m²"
-            },
-            {
-                "name": "4. Soba",
-                "area": "11,69 m²"
-            },
-            {
-                "name": "5. Soba",
-                "area": "7,00 m²"
-            },
-            {
-                "name": "6. Kupatilo",
-                "area": "7,00 m²"
-            }
-        ],
-        "coords": {
-            "ground": [
-                533,
-                306,
-                533,
-                502,
-                442,
-                502,
-                442,
-                344,
-                360,
-                344,
-                360,
-                306,
-                425,
-                306
-            ]
-        }
+  {
+    "id": "apt1",
+    "label": "Apartman 1",
+    "floor": "PRIZEMLJE",
+    "type": "Panorama Falco Suite",
+    "typeDesc": "apartman sa pogledom i galerijom",
+    "size": "42.57 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "26.94 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      },
+      {
+        "name": "Galerija",
+        "area": "11.43 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        1442,
+        218,
+        1600,
+        218,
+        1600,
+        548,
+        1442,
+        548
+      ]
     },
-    {
-        "id": "stan2",
-        "status": {
-            "ground": "available",
-            "level1": "reserved",
-            "level2": "available",
-            "level3": "available"
-        },
-        "label": "Stan 2",
-        "floor": "BOTH",
-        "size": "43,35 m²",
-        "net_area": "42,05 m²",
-        "image": "stan2.png",
-        "rooms": [
-            {
-                "name": "1. Glavni ulaz",
-                "area": "2,63 m²"
-            },
-            {
-                "name": "2. Kuhinja sa trpezarijom i dnevnom sobom",
-                "area": "25,80 m²"
-            },
-            {
-                "name": "3. Soba",
-                "area": "7,10 m²"
-            },
-            {
-                "name": "4. Kupatilo",
-                "area": "4,35 m²"
-            },
-            {
-                "name": "5. Balkon",
-                "area": "3,47 m²"
-            }
-        ],
-        "coords": {
-            "ground": [
-                444,
-                135,
-                444,
-                270,
-                462,
-                270,
-                462,
-                300,
-                533,
-                300,
-                533,
-                173,
-                487,
-                173,
-                487,
-                145
-            ],
-            "upper": [
-                452,
-                137,
-                452,
-                286,
-                472,
-                286,
-                472,
-                320,
-                549,
-                320,
-                549,
-                163
-            ]
-        }
+    "image": "stanovi/apt1.jpg"
+  },
+  {
+    "id": "apt2",
+    "label": "Apartman 2",
+    "floor": "PRIZEMLJE",
+    "type": "Panorama Falco Suite",
+    "typeDesc": "apartman sa pogledom i galerijom",
+    "size": "36.35 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "20.77 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      },
+      {
+        "name": "Galerija",
+        "area": "11.38 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        1291,
+        218,
+        1442,
+        218,
+        1442,
+        548,
+        1291,
+        548
+      ]
     },
-    {
-        "id": "stan3",
-        "label": "Stan 3",
-        "floor": "BOTH",
-        "size": "68,40 m²",
-        "net_area": "66,35 m²",
-        "image": "stan3.png",
-        "rooms": [
-            {
-                "name": "1. Glavni ulaz",
-                "area": "4,14 m²"
-            },
-            {
-                "name": "2. Kuhinja",
-                "area": "7,23 m²"
-            },
-            {
-                "name": "3. Trpezarija sa dnevnom sobom",
-                "area": "20,41 m²"
-            },
-            {
-                "name": "4. Hodnik",
-                "area": "6,88 m²"
-            },
-            {
-                "name": "5. Soba",
-                "area": "7,22 m²"
-            },
-            {
-                "name": "6. Soba",
-                "area": "11,00 m²"
-            },
-            {
-                "name": "7. Kupatilo",
-                "area": "4,68 m²"
-            },
-            {
-                "name": "8. Toalet",
-                "area": "2,76 m²"
-            },
-            {
-                "name": "9. Balkon",
-                "area": "4,08 m²"
-            }
-        ],
-        "coords": {
-            "ground": [
-                289,
-                93,
-                439,
-                133,
-                439,
-                268,
-                338,
-                268,
-                338,
-                207,
-                289,
-                207
-            ],
-            "upper": [
-                292,
-                95,
-                451,
-                137,
-                451,
-                286,
-                338,
-                286,
-                338,
-                217,
-                292,
-                217
-            ]
-        }
+    "image": "stanovi/apt2.jpg"
+  },
+  {
+    "id": "apt3",
+    "label": "Apartman 3",
+    "floor": "PRIZEMLJE",
+    "type": "Panorama Falco Suite",
+    "typeDesc": "apartman sa pogledom i galerijom",
+    "size": "43.80 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "27.83 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      },
+      {
+        "name": "Galerija",
+        "area": "11.77 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        1144,
+        218,
+        1291,
+        218,
+        1291,
+        548,
+        1144,
+        548
+      ]
     },
-    {
-        "id": "stan4",
-        "label": "Stan 4",
-        "floor": "BOTH",
-        "size": "63,92 m²",
-        "net_area": "62,00 m²",
-        "image": "stan4.png",
-        "rooms": [
-            {
-                "name": "1. Glavni ulaz",
-                "area": "4,20 m²"
-            },
-            {
-                "name": "2. Kuhinja sa trpezarijom i dnevnom sobom",
-                "area": "24,24 m²"
-            },
-            {
-                "name": "3. Hodnik",
-                "area": "3,71 m²"
-            },
-            {
-                "name": "4. Soba",
-                "area": "6,30 m²"
-            },
-            {
-                "name": "5. Soba",
-                "area": "10,80 m²"
-            },
-            {
-                "name": "6. Balkon",
-                "area": "5,84 m²"
-            },
-            {
-                "name": "7. Toalet",
-                "area": "2,13 m²"
-            },
-            {
-                "name": "8. Kupatilo",
-                "area": "6,70 m²"
-            }
-        ],
-        "coords": {
-            "ground": [
-                285,
-                82,
-                76,
-                15,
-                57,
-                74,
-                86,
-                83,
-                81,
-                99,
-                197,
-                133,
-                197,
-                180,
-                236,
-                180,
-                236,
-                174,
-                285,
-                174
-            ],
-            "upper": [
-                290,
-                82,
-                64,
-                13,
-                45,
-                75,
-                76,
-                83,
-                71,
-                102,
-                194,
-                138,
-                194,
-                190,
-                233,
-                190,
-                233,
-                184,
-                290,
-                184
-            ]
-        }
+    "image": "stanovi/apt3.jpg"
+  },
+  {
+    "id": "apt4",
+    "label": "Apartman 4",
+    "floor": "PRIZEMLJE",
+    "type": "Sky Terrace Studio",
+    "typeDesc": "apartman sa pogledom i terasom",
+    "size": "35.83 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "27.55 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      },
+      {
+        "name": "Terasa",
+        "area": "4.08 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        999,
+        218,
+        1144,
+        218,
+        1144,
+        632,
+        999,
+        632
+      ]
     },
-    {
-        "id": "stan5",
-        "label": "Stan 5",
-        "floor": "BOTH",
-        "size": "49,36 m²",
-        "net_area": "47,88 m²",
-        "image": "stan5.png",
-        "rooms": [
-            {
-                "name": "1. Glavni ulaz",
-                "area": "4,48 m²"
-            },
-            {
-                "name": "2. Kuhinja sa trpezarijom",
-                "area": "8,90 m²"
-            },
-            {
-                "name": "3. Dnevna soba",
-                "area": "18,20 m²"
-            },
-            {
-                "name": "4. Soba",
-                "area": "10,25 m²"
-            },
-            {
-                "name": "5. Balkon",
-                "area": "3,30 m²"
-            },
-            {
-                "name": "6. Kupatilo",
-                "area": "4,23 m²"
-            }
-        ],
-        "coords": {
-            "ground": [
-                80,
-                102,
-                193,
-                137,
-                193,
-                183,
-                235,
-                183,
-                235,
-                178,
-                254,
-                178,
-                254,
-                206,
-                220,
-                206,
-                220,
-                246,
-                187,
-                246,
-                187,
-                206,
-                31,
-                206,
-                33,
-                174,
-                62,
-                174,
-                64,
-                151
-            ],
-            "upper": [
-                70,
-                104,
-                192,
-                141,
-                192,
-                193,
-                235,
-                193,
-                235,
-                186,
-                257,
-                186,
-                257,
-                216,
-                220,
-                216,
-                220,
-                260,
-                187,
-                260,
-                187,
-                216,
-                17,
-                216,
-                20,
-                182,
-                51,
-                182,
-                53,
-                155
-            ]
-        }
+    "image": "stanovi/apt4.jpg"
+  },
+  {
+    "id": "apt5",
+    "label": "Apartman 5",
+    "floor": "PRIZEMLJE",
+    "type": "Sky Terrace Studio",
+    "typeDesc": "apartman sa pogledom i terasom",
+    "size": "35.36 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "27.08 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      },
+      {
+        "name": "Terasa",
+        "area": "4.08 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        863,
+        218,
+        999,
+        218,
+        999,
+        632,
+        863,
+        632
+      ]
     },
-    {
-        "id": "stan6",
-        "label": "Stan 6",
-        "floor": "BOTH",
-        "size": "43,47 m²",
-        "net_area": "42,17 m²",
-        "image": "stan6.png",
-        "rooms": [
-            {
-                "name": "1. Glavni ulaz",
-                "area": "5,40 m²"
-            },
-            {
-                "name": "2. Dnevna soba sa trpezarijom",
-                "area": "15,07 m²"
-            },
-            {
-                "name": "3. Kuhinja",
-                "area": "7,24 m²"
-            },
-            {
-                "name": "4. Soba",
-                "area": "8,18 m²"
-            },
-            {
-                "name": "5. Balkon",
-                "area": "3,30 m²"
-            },
-            {
-                "name": "6. Kupatilo",
-                "area": "4,28 m²"
-            }
-        ],
-        "coords": {
-            "ground": [
-                27,
-                244,
-                58,
-                244,
-                55,
-                280,
-                187,
-                280,
-                187,
-                272,
-                222,
-                272,
-                222,
-                280,
-                255,
-                280,
-                255,
-                211,
-                222,
-                211,
-                222,
-                251,
-                187,
-                251,
-                187,
-                211,
-                31,
-                211
-            ],
-            "upper": [
-                13,
-                256,
-                45,
-                256,
-                42,
-                294,
-                184,
-                294,
-                184,
-                287,
-                222,
-                287,
-                222,
-                294,
-                257,
-                294,
-                257,
-                219,
-                221,
-                219,
-                221,
-                263,
-                184,
-                263,
-                184,
-                219,
-                17,
-                219
-            ]
-        }
+    "image": "stanovi/apt5.jpg"
+  },
+  {
+    "id": "apt6",
+    "label": "Apartman 6",
+    "floor": "PRIZEMLJE",
+    "type": "Sky Terrace Studio",
+    "typeDesc": "apartman sa pogledom i terasom",
+    "size": "34.56 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "26.36 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      },
+      {
+        "name": "Terasa",
+        "area": "4.00 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        739,
+        218,
+        863,
+        218,
+        863,
+        632,
+        739,
+        632
+      ]
     },
-    {
-        "id": "stan7",
-        "label": "Stan 7",
-        "floor": "BOTH",
-        "size": "61,61 m²",
-        "net_area": "59,76 m²",
-        "image": "stan7.png",
-        "rooms": [
-            {
-                "name": "1. Glavni ulaz",
-                "area": "5,77 m²"
-            },
-            {
-                "name": "2. Kuhinja sa trpezarijom i dnevnom sobom",
-                "area": "24,53 m²"
-            },
-            {
-                "name": "3. Hodnik",
-                "area": "1,76 m²"
-            },
-            {
-                "name": "4. Soba",
-                "area": "6,67 m²"
-            },
-            {
-                "name": "5. Soba",
-                "area": "12,00 m²"
-            },
-            {
-                "name": "6. Kupatilo",
-                "area": "5,76 m²"
-            },
-            {
-                "name": "7. Balkon",
-                "area": "5,12 m²"
-            }
-        ],
-        "coords": {
-            "ground": [
-                189,
-                277,
-                220,
-                277,
-                220,
-                282,
-                254,
-                282,
-                254,
-                343,
-                236,
-                343,
-                236,
-                370,
-                18,
-                370,
-                22,
-                320,
-                50,
-                320,
-                53,
-                282,
-                189,
-                282
-            ],
-            "upper": [
-                186,
-                290,
-                220,
-                290,
-                220,
-                296,
-                254,
-                296,
-                254,
-                363,
-                239,
-                363,
-                239,
-                390,
-                1,
-                390,
-                7,
-                335,
-                41,
-                335,
-                43,
-                298,
-                186,
-                298
-            ]
-        }
+    "image": "stanovi/apt6.jpg"
+  },
+  {
+    "id": "apt7",
+    "label": "Apartman 7",
+    "floor": "PRIZEMLJE",
+    "type": "Sky Terrace Studio",
+    "typeDesc": "apartman sa pogledom i terasom",
+    "size": "34.56 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "26.36 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.00 m²"
+      },
+      {
+        "name": "Terasa",
+        "area": "3.96 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        599,
+        218,
+        739,
+        218,
+        739,
+        632,
+        599,
+        632
+      ]
     },
-    {
-        "id": "stan8",
-        "label": "Stan 8",
-        "floor": "SPRAT",
-        "size": "73,63 m²",
-        "net_area": "71,42 m²",
-        "image": "stan8.png",
-        "rooms": [
-            {
-                "name": "1. Glavni ulaz",
-                "area": "6,30 m²"
-            },
-            {
-                "name": "2. Kuhinja sa trpezarijom i dnevnom sobom",
-                "area": "28,58 m²"
-            },
-            {
-                "name": "3. Predprostor",
-                "area": "1,76 m²"
-            },
-            {
-                "name": "4. Soba",
-                "area": "10,81 m²"
-            },
-            {
-                "name": "5. Soba",
-                "area": "11,70 m²"
-            },
-            {
-                "name": "6. Terasa",
-                "area": "5,06 m²"
-            },
-            {
-                "name": "7. Toalet",
-                "area": "2,42 m²"
-            },
-            {
-                "name": "8. Kupatilo",
-                "area": "7,00 m²"
-            }
-        ],
-        "coords": {
-            "ground": [
-                533,
-                306,
-                533,
-                502,
-                442,
-                502,
-                442,
-                344,
-                360,
-                344,
-                360,
-                306,
-                425,
-                306
-            ],
-            "upper": [
-                549,
-                321,
-                549,
-                530,
-                422,
-                530,
-                422,
-                450,
-                448,
-                450,
-                448,
-                360,
-                363,
-                360,
-                363,
-                321
-            ]
-        }
-    }
+    "image": "stanovi/apt7.jpg"
+  },
+  {
+    "id": "apt8",
+    "label": "Apartman 8",
+    "floor": "PRIZEMLJE",
+    "type": "Sky Family Suite",
+    "typeDesc": "apartman sa pogledom i sobom",
+    "size": "42.19 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "28.21 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.18 m²"
+      },
+      {
+        "name": "Soba",
+        "area": "9.80 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        239,
+        218,
+        599,
+        218,
+        599,
+        391,
+        239,
+        391
+      ]
+    },
+    "image": "stanovi/apt8.jpg"
+  },
+  {
+    "id": "apt9",
+    "label": "Apartman 9",
+    "floor": "PRIZEMLJE",
+    "type": "Falco View Studio",
+    "typeDesc": "apartman sa pogledom",
+    "size": "32.27 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "28.07 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        239,
+        391,
+        599,
+        391,
+        599,
+        582,
+        239,
+        582
+      ]
+    },
+    "image": "stanovi/apt9.jpg"
+  },
+  {
+    "id": "apt10",
+    "label": "Apartman 10",
+    "floor": "PRIZEMLJE",
+    "type": "Falco View Studio",
+    "typeDesc": "apartman sa pogledom",
+    "size": "30.10 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "25.90 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        239,
+        582,
+        599,
+        582,
+        599,
+        741,
+        239,
+        741
+      ]
+    },
+    "image": "stanovi/apt10.jpg"
+  },
+  {
+    "id": "apt11",
+    "label": "Apartman 11",
+    "floor": "PRIZEMLJE",
+    "type": "Falco View Studio",
+    "typeDesc": "apartman sa pogledom i terasom",
+    "size": "37.65 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "33.35 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.30 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        239,
+        741,
+        694,
+        741,
+        694,
+        856,
+        239,
+        856
+      ]
+    },
+    "image": "stanovi/apt11.jpg"
+  },
+  {
+    "id": "apt12",
+    "label": "Apartman 12",
+    "floor": "PRIZEMLJE",
+    "type": "Falco Family Suite",
+    "typeDesc": "apartman sa sobom",
+    "size": "36.32 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "21.65 m²"
+      },
+      {
+        "name": "Spavaća soba",
+        "area": "10.25 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.42 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        796,
+        698,
+        1144,
+        698,
+        1144,
+        856,
+        796,
+        856
+      ]
+    },
+    "image": "stanovi/apt12.jpg"
+  },
+  {
+    "id": "apt13",
+    "label": "Apartman 13",
+    "floor": "PRIZEMLJE",
+    "type": "Falco Smart Studio",
+    "typeDesc": "mini apartman",
+    "size": "21.52 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "17.42 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.10 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        966,
+        1143,
+        1144,
+        1143,
+        1144,
+        1403,
+        966,
+        1403
+      ]
+    },
+    "image": "stanovi/apt13.jpg"
+  },
+  {
+    "id": "apt14",
+    "label": "Apartman 14",
+    "floor": "PRIZEMLJE",
+    "type": "Falco Smart Studio",
+    "typeDesc": "mini apartman",
+    "size": "21.52 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "17.42 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.10 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        787,
+        1201,
+        966,
+        1201,
+        966,
+        1403,
+        787,
+        1403
+      ]
+    },
+    "image": "stanovi/apt14.jpg"
+  },
+  {
+    "id": "apt15",
+    "label": "Apartman 15",
+    "floor": "PRIZEMLJE",
+    "type": "Falco Smart Studio",
+    "typeDesc": "mini apartman",
+    "size": "21.52 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "17.42 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.10 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        606,
+        1201,
+        787,
+        1201,
+        787,
+        1403,
+        606,
+        1403
+      ]
+    },
+    "image": "stanovi/apt15.jpg"
+  },
+  {
+    "id": "apt16",
+    "label": "Apartman 16",
+    "floor": "PRIZEMLJE",
+    "type": "Falco Family Studio",
+    "typeDesc": "apartman studio",
+    "size": "29.90 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "25.90 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.00 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        239,
+        1271,
+        678,
+        1271,
+        678,
+        1403,
+        239,
+        1403
+      ]
+    },
+    "image": "stanovi/apt16.jpg"
+  },
+  {
+    "id": "apt17",
+    "label": "Apartman 17",
+    "floor": "PRIZEMLJE",
+    "type": "Falco Family Studio",
+    "typeDesc": "apartman studio",
+    "size": "24.91 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "20.91 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.00 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        239,
+        1143,
+        606,
+        1143,
+        606,
+        1271,
+        239,
+        1271
+      ]
+    },
+    "image": "stanovi/apt17.jpg"
+  },
+  {
+    "id": "apt18",
+    "label": "Apartman 18",
+    "floor": "PRIZEMLJE",
+    "type": "Falco Terrace Studio",
+    "typeDesc": "apartman sa terasom",
+    "size": "28.30 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "20.10 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.00 m²"
+      },
+      {
+        "name": "Terasa",
+        "area": "4.20 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        210,
+        1000,
+        606,
+        1000,
+        606,
+        1143,
+        210,
+        1143
+      ]
+    },
+    "image": "stanovi/apt18.jpg"
+  },
+  {
+    "id": "apt19",
+    "label": "Apartman 19",
+    "floor": "PRIZEMLJE",
+    "type": "Falco Terrace Studio",
+    "typeDesc": "apartman sa terasom",
+    "size": "38.88 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "30.48 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "3.95 m²"
+      },
+      {
+        "name": "Terasa",
+        "area": "4.45 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        210,
+        856,
+        653,
+        856,
+        653,
+        1000,
+        210,
+        1000
+      ]
+    },
+    "image": "stanovi/apt19.jpg"
+  },
+  {
+    "id": "apt20",
+    "label": "Apartman 20",
+    "floor": "PRIZEMLJE",
+    "type": "Falco Family Suite",
+    "typeDesc": "apartman sa sobom",
+    "size": "43.49 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "28.49 m²"
+      },
+      {
+        "name": "Soba",
+        "area": "10.08 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.92 m²"
+      }
+    ],
+    "coords": {
+      "ground": [
+        653,
+        856,
+        926,
+        856,
+        926,
+        1135,
+        653,
+        1135
+      ]
+    },
+    "image": "stanovi/apt20.jpg"
+  },
+  {
+    "id": "apt21",
+    "label": "Apartman 21",
+    "floor": "1. SPRAT",
+    "type": "Sky Terrace Studio",
+    "typeDesc": "apartman sa pogledom i terasom",
+    "size": "35.83 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "27.55 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      },
+      {
+        "name": "Terasa",
+        "area": "4.08 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        899,
+        277,
+        1022,
+        277,
+        1022,
+        646,
+        899,
+        646
+      ]
+    },
+    "image": "stanovi/apt4.jpg"
+  },
+  {
+    "id": "apt22",
+    "label": "Apartman 22",
+    "floor": "1. SPRAT",
+    "type": "Sky Terrace Studio",
+    "typeDesc": "apartman sa pogledom i terasom",
+    "size": "35.36 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "27.08 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      },
+      {
+        "name": "Terasa",
+        "area": "4.08 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        777,
+        277,
+        899,
+        277,
+        899,
+        646,
+        777,
+        646
+      ]
+    },
+    "image": "stanovi/apt5.jpg"
+  },
+  {
+    "id": "apt23",
+    "label": "Apartman 23",
+    "floor": "1. SPRAT",
+    "type": "Sky Terrace Studio",
+    "typeDesc": "apartman sa pogledom i terasom",
+    "size": "34.56 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "26.36 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      },
+      {
+        "name": "Terasa",
+        "area": "4.00 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        659,
+        277,
+        777,
+        277,
+        777,
+        646,
+        659,
+        646
+      ]
+    },
+    "image": "stanovi/apt6.jpg"
+  },
+  {
+    "id": "apt24",
+    "label": "Apartman 24",
+    "floor": "1. SPRAT",
+    "type": "Sky Terrace Studio",
+    "typeDesc": "apartman sa pogledom i terasom",
+    "size": "34.56 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "26.36 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.00 m²"
+      },
+      {
+        "name": "Terasa",
+        "area": "3.96 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        540,
+        277,
+        659,
+        277,
+        659,
+        646,
+        540,
+        646
+      ]
+    },
+    "image": "stanovi/apt7.jpg"
+  },
+  {
+    "id": "apt25",
+    "label": "Apartman 25",
+    "floor": "1. SPRAT",
+    "type": "Sky Family Suite",
+    "typeDesc": "apartman sa pogledom i sobom",
+    "size": "42.19 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "28.21 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.18 m²"
+      },
+      {
+        "name": "Soba",
+        "area": "9.80 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        218,
+        277,
+        540,
+        277,
+        540,
+        430,
+        490,
+        430,
+        485,
+        467,
+        410,
+        467,
+        404,
+        430,
+        218,
+        430
+      ]
+    },
+    "image": "stanovi/apt8.jpg"
+  },
+  {
+    "id": "apt26",
+    "label": "Apartman 26",
+    "floor": "1. SPRAT",
+    "type": "Falco View Studio",
+    "typeDesc": "apartman sa pogledom",
+    "size": "32.27 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "28.07 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        218,
+        430,
+        404,
+        430,
+        404,
+        476,
+        477,
+        476,
+        483,
+        595,
+        218,
+        595
+      ]
+    },
+    "image": "stanovi/apt9.jpg"
+  },
+  {
+    "id": "apt27",
+    "label": "Apartman 27",
+    "floor": "1. SPRAT",
+    "type": "Falco View Studio",
+    "typeDesc": "apartman sa pogledom",
+    "size": "30.10 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "25.90 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.20 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        218,
+        565,
+        483,
+        565,
+        483,
+        744,
+        218,
+        744
+      ]
+    },
+    "image": "stanovi/apt10.jpg"
+  },
+  {
+    "id": "apt28",
+    "label": "Apartman 28",
+    "floor": "1. SPRAT",
+    "type": "Falco View Studio",
+    "typeDesc": "apartman sa pogledom i terasom",
+    "size": "37.65 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "33.35 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.30 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        620,
+        700,
+        540,
+        700,
+        540,
+        744,
+        218,
+        744,
+        218,
+        854,
+        620,
+        854
+      ]
+    },
+    "image": "stanovi/apt11.jpg"
+  },
+  {
+    "id": "apt29",
+    "label": "Apartman 29",
+    "floor": "1. SPRAT",
+    "type": "Falco Family Suite",
+    "typeDesc": "apartman sa sobom",
+    "size": "36.32 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "21.65 m²"
+      },
+      {
+        "name": "Spavaća soba",
+        "area": "10.25 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.42 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        704,
+        700,
+        1022,
+        700,
+        1022,
+        854,
+        704,
+        854
+      ]
+    },
+    "image": "stanovi/apt12.jpg"
+  },
+  {
+    "id": "apt30",
+    "label": "Apartman 30",
+    "floor": "1. SPRAT",
+    "type": "Falco Smart Studio",
+    "typeDesc": "mini apartman",
+    "size": "29.62 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "25.52 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.10 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        863,
+        1104,
+        1022,
+        1104,
+        1022,
+        1337,
+        863,
+        1337
+      ]
+    },
+    "image": "stanovi/apt30.jpg"
+  },
+  {
+    "id": "apt31",
+    "label": "Apartman 31",
+    "floor": "1. SPRAT",
+    "type": "Falco Smart Studio",
+    "typeDesc": "mini apartman",
+    "size": "21.52 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "17.42 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.10 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        705,
+        1158,
+        863,
+        1158,
+        863,
+        1337,
+        705,
+        1337
+      ]
+    },
+    "image": "stanovi/apt14.jpg"
+  },
+  {
+    "id": "apt32",
+    "label": "Apartman 32",
+    "floor": "1. SPRAT",
+    "type": "Falco Smart Studio",
+    "typeDesc": "mini apartman",
+    "size": "21.52 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "17.42 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.10 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        546,
+        1158,
+        705,
+        1158,
+        705,
+        1337,
+        546,
+        1337
+      ]
+    },
+    "image": "stanovi/apt15.jpg"
+  },
+  {
+    "id": "apt33",
+    "label": "Apartman 33",
+    "floor": "1. SPRAT",
+    "type": "Falco Smart Studio",
+    "typeDesc": "mini apartman",
+    "size": "22.63 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "18.38 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.25 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        387,
+        1152,
+        546,
+        1152,
+        546,
+        1337,
+        387,
+        1337
+      ]
+    },
+    "image": "stanovi/apt33.jpg"
+  },
+  {
+    "id": "apt34",
+    "label": "Apartman 34",
+    "floor": "1. SPRAT",
+    "type": "Falco Smart Studio",
+    "typeDesc": "mini apartman",
+    "size": "35.10 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "31.00 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.10 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        218,
+        1104,
+        483,
+        1104,
+        483,
+        1152,
+        387,
+        1152,
+        387,
+        1337,
+        218,
+        1337
+      ]
+    },
+    "image": "stanovi/apt34.jpg"
+  },
+  {
+    "id": "apt35",
+    "label": "Apartman 35",
+    "floor": "1. SPRAT",
+    "type": "Falco Terrace Studio",
+    "typeDesc": "apartman sa terasom",
+    "size": "28.30 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "20.10 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.00 m²"
+      },
+      {
+        "name": "Terasa",
+        "area": "4.20 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        185,
+        982,
+        485,
+        982,
+        485,
+        1104,
+        185,
+        1104
+      ]
+    },
+    "image": "stanovi/apt18.jpg"
+  },
+  {
+    "id": "apt36",
+    "label": "Apartman 36",
+    "floor": "1. SPRAT",
+    "type": "Falco Terrace Studio",
+    "typeDesc": "apartman sa terasom",
+    "size": "38.88 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "30.48 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "3.95 m²"
+      },
+      {
+        "name": "Terasa",
+        "area": "4.45 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        185,
+        854,
+        586,
+        854,
+        586,
+        932,
+        547,
+        932,
+        547,
+        982,
+        185,
+        982
+      ]
+    },
+    "image": "stanovi/apt19.jpg"
+  },
+  {
+    "id": "apt37",
+    "label": "Apartman 37",
+    "floor": "1. SPRAT",
+    "type": "Falco Family Suite",
+    "typeDesc": "apartman sa sobom",
+    "size": "43.49 m²",
+    "rooms": [
+      {
+        "name": "Dnevna soba",
+        "area": "28.49 m²"
+      },
+      {
+        "name": "Soba",
+        "area": "10.08 m²"
+      },
+      {
+        "name": "Kupatilo",
+        "area": "4.92 m²"
+      }
+    ],
+    "coords": {
+      "ground": [],
+      "upper": [
+        592,
+        854,
+        826,
+        854,
+        826,
+        1104,
+        680,
+        1104,
+        676,
+        1013,
+        552,
+        1013,
+        552,
+        927,
+        587,
+        923
+      ]
+    },
+    "image": "stanovi/apt20.jpg"
+  }
 ]

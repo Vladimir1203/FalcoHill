@@ -17,14 +17,14 @@ export default function Hero() {
         <div className="mb-6 md:mb-10 animate-slide-up mt-16 md:mt-24">
           <img
             src="logo.png"
-            alt="Tik Invest"
-            className="h-24 md:h-48 w-auto mx-auto mb-4 md:mb-8 drop-shadow-2xl filter brightness-0 invert"
+            alt="FalcoHill"
+            className="h-36 md:h-72 w-auto mx-auto mb-4 md:mb-8 drop-shadow-2xl"
           />
         </div>
 
         <h1 className="font-heading text-2xl md:text-5xl lg:text-6xl font-light mb-4 md:mb-6 leading-tight tracking-tight">
           SAVREMENI STAMBENI <br />
-          <span className="text-secondary font-medium">OBJEKAT U RAŠKI</span>
+          <span className="text-secondary font-medium">OBJEKAT NA KOPAONIKU</span>
         </h1>
 
         <p className="max-w-2xl mx-auto text-slate-300 text-base md:text-xl font-light mb-8 md:mb-12 tracking-wide">

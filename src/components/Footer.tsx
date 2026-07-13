@@ -6,22 +6,22 @@ export default function Footer() {
           <div className="flex flex-col items-center md:items-start gap-2">
             <img
               src="logo.png"
-              alt="Tik Invest"
-              className="h-16 w-auto filter brightness-0 invert opacity-80"
+              alt="FalcoHill"
+              className="h-16 w-auto opacity-90"
             />
           </div>
 
           <div className="text-center md:text-right">
-            <p className="text-slate-400 mb-2 font-light">Savremeni stambeni objekat - Raška</p>
+            <p className="text-slate-400 mb-2 font-light">Savremeni stambeni objekat - Kopaonik</p>
             <p className="text-sm text-slate-600 font-light">
-              © {new Date().getFullYear()} Tik Invest. Sva prava zadržana.
+              © {new Date().getFullYear()} FalcoHill. Sva prava zadržana.
             </p>
           </div>
         </div>
 
         <div className="border-t border-white/5 mt-8 pt-8 text-center">
           <p className="text-xs text-slate-600 font-light">
-            Dizajn i razvoj: Tik Invest Tim
+            Dizajn i razvoj: FalcoHill Tim
           </p>
         </div>
       </div>
