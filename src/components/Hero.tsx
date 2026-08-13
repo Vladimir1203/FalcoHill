@@ -33,7 +33,7 @@ export default function Hero() {
 
         <div className="flex flex-wrap justify-center gap-4 md:gap-8 mt-8">
           {[
-            { icon: Building2, label: 'P+3 Spratnost' },
+            { icon: Building2, label: 'P+1 Spratnost' },
             { icon: ArrowUpDown, label: 'Moderni Lift' },
             { icon: Car, label: 'Garažna Mesta' },
             { icon: Package, label: 'Parking' },
