@@ -183,7 +183,7 @@ export default function Contact() {
             <RevealOnScroll direction="left" delay={200}>
               <div className="space-y-6">
                 {[
-                  { icon: Phone, title: 'Telefon', value: 'primary', link: 'tel:+381638025795' },
+                  { icon: Phone, title: 'Telefon', value: 'primary', link: 'tel:+381658155391' },
                   { icon: Mail, title: 'Email', value: 'falcohill@gmail.com', link: 'mailto:falcohill@gmail.com' },
                   { icon: MapPin, title: 'Lokacija', value: 'Kopaonik, Srbija', link: '#location' }
                 ].map((item, index) => (
@@ -195,12 +195,8 @@ export default function Contact() {
                       <h4 className="font-heading font-bold text-slate-400 text-sm uppercase tracking-wider mb-1">{item.title}</h4>
                       {item.title === 'Telefon' ? (
                         <div className="flex flex-col md:block items-start">
-                          <a href="tel:+381638025795" className="text-lg md:text-xl font-bold text-primary hover:text-secondary transition-colors whitespace-nowrap">
-                            +381 63 802 5795
-                          </a>
-                          <span className="hidden md:inline mx-2 text-slate-300">/</span>
-                          <a href="tel:+381629652227" className="text-lg md:text-xl font-bold text-primary hover:text-secondary transition-colors whitespace-nowrap">
-                            +381 62 965 2227
+                          <a href="tel:+381658155391" className="text-lg md:text-xl font-bold text-primary hover:text-secondary transition-colors whitespace-nowrap">
+                            065 815 5391
                           </a>
                         </div>
                       ) : (

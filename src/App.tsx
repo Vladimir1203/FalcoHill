@@ -16,7 +16,7 @@ function App() {
       <About />
       <Location />
       <Apartments />
-      <Parking />
+      {/* <Parking /> */}
       <Pricing />
       <Contact />
       <Footer />

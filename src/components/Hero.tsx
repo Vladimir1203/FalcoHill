@@ -1,4 +1,4 @@
-import { Building2, ArrowUpDown, Car, Package } from 'lucide-react';
+import { Building2, Euro, MapPin, CreditCard } from 'lucide-react';
 
 export default function Hero() {
   return (
@@ -33,17 +33,20 @@ export default function Hero() {
 
         <div className="flex flex-wrap justify-center gap-4 md:gap-8 mt-8">
           {[
-            { icon: Building2, label: 'P+1 Spratnost' },
-            { icon: ArrowUpDown, label: 'Moderni Lift' },
-            { icon: Car, label: 'Garažna Mesta' },
-            { icon: Package, label: 'Parking' },
+            { icon: Euro, label: 'Od 1.400 €/m²', sub: 'Sa uračunatim PDV-om' },
+            { icon: MapPin, label: 'Vikend naselje Kopaonik', sub: 'Mirna lokacija u srcu planine' },
+            { icon: Building2, label: '37 modernih apartmana', sub: 'Površine od 21 do 43 m²' },
+            { icon: CreditCard, label: 'Plaćanje u fazama', sub: 'Fleksibilni modeli kupovine' },
           ].map((feature, index) => (
             <div
               key={index}
-              className="flex items-center gap-3 px-4 py-2 md:px-6 md:py-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-full hover:bg-white/10 transition-colors cursor-default"
+              className="flex items-center gap-3 px-4 py-2 md:px-6 md:py-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl hover:bg-white/10 transition-colors cursor-default text-left"
             >
-              <feature.icon className="text-accent w-5 h-5" />
-              <span className="font-heading text-sm md:text-base tracking-wide">{feature.label}</span>
+              <feature.icon className="text-accent w-5 h-5 shrink-0" />
+              <div>
+                <div className="font-heading text-sm md:text-base tracking-wide font-semibold">{feature.label}</div>
+                <div className="text-xs text-slate-400">{feature.sub}</div>
+              </div>
             </div>
           ))}
         </div>
