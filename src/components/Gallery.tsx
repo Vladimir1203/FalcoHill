@@ -2,6 +2,8 @@ import { useState, useEffect, useCallback, useRef } from 'react';
 import { ChevronLeft, ChevronRight, Hand } from 'lucide-react';
 
 const images = [
+    "zgrada/AER_01_Final.jpg",
+    "zgrada/AER_02_Final.jpg",
     "zgrada/zgrada1.png",
     "zgrada/zgrada2.png",
     "zgrada/zgrada3.png",
@@ -112,7 +114,7 @@ export default function Gallery() {
                         <div className="relative z-10 w-full h-full p-4 flex items-center justify-center">
                             <img
                                 src={img}
-                                alt={`Tik Invest Gallery ${index + 1}`}
+                                alt={`FalcoHill ${index + 1}`}
                                 className="w-full h-full object-contain drop-shadow-xl rounded-lg transform transition-transform duration-700 hover:scale-[1.01]"
                             />
                         </div>
