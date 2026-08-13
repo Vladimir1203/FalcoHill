@@ -4,13 +4,6 @@ import { ChevronLeft, ChevronRight, Hand } from 'lucide-react';
 const images = [
     "zgrada/AER_01_Final.jpg",
     "zgrada/AER_02_Final.jpg",
-    "zgrada/zgrada1.png",
-    "zgrada/zgrada2.png",
-    "zgrada/zgrada3.png",
-    "zgrada/zgrada4.png",
-    "zgrada/zgrada5.png",
-    "zgrada/zgrada6.png",
-    "zgrada/zgrada7.png"
 ];
 
 export default function Gallery() {
