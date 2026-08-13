@@ -35,11 +35,8 @@ export default function Pricing() {
                 <div className="absolute inset-0 bg-black/10 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <Euro size={56} className="mx-auto mb-6 text-white opacity-90" />
                 <div className="text-sm font-bold uppercase tracking-widest text-white/80 mb-2">Početna cena</div>
-                <div className="text-6xl md:text-7xl font-heading font-bold mb-2">1.400 €</div>
-                <div className="text-2xl opacity-90 font-light">/ m² sa PDV-om</div>
-                <div className="mt-8 pt-8 border-t border-white/20">
-                  <p className="text-white/90 text-sm">Mogućnost povrata PDV-a za kupce prve nekretnine</p>
-                </div>
+                <div className="text-5xl md:text-6xl font-heading font-bold mb-1">1.400 €/m²</div>
+                <div className="text-xl opacity-90 font-light">Bruto cena</div>
               </div>
             </RevealOnScroll>
 

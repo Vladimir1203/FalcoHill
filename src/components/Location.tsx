@@ -5,8 +5,8 @@ export default function Location() {
   const advantages = [
     {
       icon: MapPin,
-      title: 'Mirna zona',
-      description: 'Porodično okruženje, bez gradske buke'
+      title: 'Kompletno opremanje enterijera',
+      description: 'Uz doplatu od 200 €/m², omogućavamo kompletno opremanje apartmana nameštajem i ostalim detaljima enterijera.'
     },
     {
       icon: Wifi,
@@ -28,13 +28,11 @@ export default function Location() {
             <RevealOnScroll direction="right">
               <h2 className="font-heading text-4xl md:text-5xl font-bold text-primary mb-6">
                 Savršena Lokacija <br />
-                <span className="text-secondary">za Vaš Dom</span>
+                <span className="text-secondary">za Vaš Apartman</span>
               </h2>
               <div className="w-20 h-1 bg-accent mb-8"></div>
               <p className="text-lg text-slate-600 leading-relaxed max-w-lg">
-                Objekat je zamišljen kao mirna porodična zgrada, idealna za udoban
-                svakodnevni život. Nalazi se u vikend naselju na Kopaoniku,
-                koje pruža dobar balans između privatnosti i dostupnosti.
+                Vikend naselje na Kopaoniku predstavlja jednu od atraktivnijih zona za odmor i boravak, koja pruža mir, prirodu i pogled na planinski pejzaž, uz dobru povezanost sa ski-centrom. U ovom okruženju nalazi se Falco Hill, savremen objekat projektovan za udoban boravak i moderan planinski život.
               </p>
             </RevealOnScroll>
           </div>

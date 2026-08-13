@@ -23,7 +23,7 @@ export default function Hero() {
         </div>
 
         <h1 className="font-heading text-2xl md:text-5xl lg:text-6xl font-light mb-4 md:mb-6 leading-tight tracking-tight">
-          SAVREMENI STAMBENI <br />
+          SAVREMENI APARTMANSKI <br />
           <span className="text-secondary font-medium">OBJEKAT NA KOPAONIKU</span>
         </h1>
 

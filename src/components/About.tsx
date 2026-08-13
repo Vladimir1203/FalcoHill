@@ -65,7 +65,7 @@ export default function About() {
                 Kopaonik je sinonim za čist vazduh, netaknutu prirodu i aktivan odmor tokom cele godine. Zimi privlači ljubitelje skijanja, dok leti pruža savršeno okruženje za beg od gradske gužve.
               </p>
               <p className="text-lg text-slate-200 leading-relaxed font-light">
-                Falco Hill vam omogućava da već za cenu od oko <strong className="text-secondary">30.000 €</strong> postanete vlasnik apartmana na najpoznatijoj srpskoj planini i uživate u svim njenim prednostima, uz sigurnu investiciju za budućnost.
+                Falco Hill vam omogućava da već za cenu od <strong className="text-secondary">30.000 €</strong> postanete vlasnik apartmana na najpoznatijoj srpskoj planini i uživate u svim njenim prednostima, uz sigurnu investiciju za budućnost.
               </p>
             </div>
 
