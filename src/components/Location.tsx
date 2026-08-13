@@ -68,7 +68,7 @@ export default function Location() {
         <RevealOnScroll delay={300} direction="up">
           <div className="relative rounded-2xl overflow-hidden shadow-2xl h-[500px] border-4 border-white">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d500!2d20.758676743545312!3d43.27622589059995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ssr!2srs!4v1700000000000!5m2!1ssr!2srs"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d500!2d20.758676743545312!3d43.27622589059995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDPCsDE2JzM0LjQiTiAyMMKwNDUnMzEuMiJF!5e1!3m2!1ssr!2srs!4v1700000000000!5m2!1ssr!2srs"
               className="w-full h-full border-0 grayscale hover:grayscale-0 transition-all duration-700"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
