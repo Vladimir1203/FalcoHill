@@ -26,9 +26,9 @@ export default function Contact() {
     }
 
     // Environment Variable Validation
-    const serviceId = "service_in8ursx";
-    const templateId = "template_2gm9bq5";
-    const publicKey = "Sq-t580dxJ9dGVTfZ";
+    const serviceId = "service_yysgpsw";
+    const templateId = "template_zt33uag";
+    const publicKey = "J_s86aZ_5BeRokJBn";
 
     if (!serviceId || !templateId || !publicKey || serviceId.includes('PLACEHOLDER') || publicKey.includes('PLACEHOLDER')) {
       console.log('📧 EmailJS ENV DEBUG', {
