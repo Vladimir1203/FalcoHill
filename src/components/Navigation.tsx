@@ -23,7 +23,7 @@ export default function Navigation() {
     { label: 'O projektu', id: 'about' },
     { label: 'Lokacija', id: 'location' },
     { label: 'Stanovi', id: 'apartments' },
-    { label: 'Parking', id: 'parking' },
+    // { label: 'Parking', id: 'parking' },
     { label: 'Cene', id: 'pricing' },
     { label: 'Kontakt', id: 'contact' }
   ];
