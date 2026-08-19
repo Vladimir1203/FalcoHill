@@ -436,7 +436,8 @@
         1403
       ]
     },
-    "image": "stanovi/apt13.jpg"
+    "image": "stanovi/apt13.jpg",
+    "status": "reserved"
   },
   {
     "id": "apt14",
@@ -560,7 +561,8 @@
         1271
       ]
     },
-    "image": "stanovi/apt17.jpg"
+    "image": "stanovi/apt17.jpg",
+    "status": "reserved"
   },
   {
     "id": "apt18",
@@ -853,7 +855,8 @@
         430
       ]
     },
-    "image": "stanovi/apt8.jpg"
+    "image": "stanovi/apt8.jpg",
+    "status": "reserved"
   },
   {
     "id": "apt26",
@@ -993,7 +996,8 @@
         854
       ]
     },
-    "image": "stanovi/apt12.jpg"
+    "image": "stanovi/apt12.jpg",
+    "status": "reserved"
   },
   {
     "id": "apt30",
@@ -1057,7 +1061,8 @@
         1337
       ]
     },
-    "image": "stanovi/apt14.jpg"
+    "image": "stanovi/apt14.jpg",
+    "status": "reserved"
   },
   {
     "id": "apt32",
@@ -1089,7 +1094,8 @@
         1337
       ]
     },
-    "image": "stanovi/apt15.jpg"
+    "image": "stanovi/apt15.jpg",
+    "status": "reserved"
   },
   {
     "id": "apt33",
@@ -1193,7 +1199,8 @@
         1104
       ]
     },
-    "image": "stanovi/apt18.jpg"
+    "image": "stanovi/apt18.jpg",
+    "status": "reserved"
   },
   {
     "id": "apt36",

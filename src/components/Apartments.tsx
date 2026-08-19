@@ -156,7 +156,7 @@ export default function Apartments() {
                                     </label>
                                     <div className="flex gap-4">
                                         <div className="flex items-center gap-1.5">
-                                            <div className="w-3 h-3 rounded-full bg-slate-400"></div>
+                                            <div className="w-3 h-3 rounded-full bg-emerald-500"></div>
                                             <span className="text-slate-500">Rezervisan</span>
                                         </div>
                                         <div className="flex items-center gap-1.5">
@@ -165,11 +165,11 @@ export default function Apartments() {
                                         </div>
                                     </div>
                                     <div className="text-slate-400 border-l border-slate-200 pl-4">
-                                        Inf. cena:{" "}
+                                        Cena:{" "}
                                         <span className="font-medium text-slate-600">
-                                            {activeFloor === 'ground' ? '1.250' : '1.350'} €/m²
+                                            1.400 €/m²
                                         </span>
-                                        <span className="text-xs ml-1">bez PDV-a</span>
+                                        <span className="text-xs ml-1">bruto</span>
                                     </div>
                                 </div>
                             </div>
@@ -221,14 +221,10 @@ export default function Apartments() {
                                                     {/* Base fill */}
                                                     <polygon
                                                         points={pts}
-                                                        fill={reserved ? 'rgba(71,85,105,0.45)' : 'transparent'}
-                                                        stroke="transparent"
+                                                        fill={reserved ? 'rgba(34,197,94,0.45)' : 'transparent'}
+                                                        stroke={reserved ? 'rgba(34,197,94,0.8)' : 'transparent'}
+                                                        strokeWidth={reserved ? 1.5 : 0}
                                                     />
-
-                                                    {/* Hatch for reserved */}
-                                                    {reserved && (
-                                                        <polygon points={pts} fill="url(#hatch)" opacity="0.4" />
-                                                    )}
 
                                                     {/* Hover glow */}
                                                     {!reserved && (
@@ -256,7 +252,7 @@ export default function Apartments() {
                                                         fill="white"
                                                         style={{ pointerEvents: 'none', userSelect: 'none' }}
                                                     >
-                                                        REZ.
+                                                        REZERVISAN
                                                     </text>
                                                     )}
                                                 </g>
