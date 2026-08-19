@@ -15,6 +15,7 @@ interface Apartment {
     image?: string;
     status?: 'available' | 'reserved';
     pricePerSqm?: number;
+    totalPrice?: number;
     coords?: { ground?: number[]; upper?: number[]; };
 }
 
@@ -81,10 +82,8 @@ export default function Apartments() {
     };
 
     const formatPrice = (apt: Apartment) => {
-        const ppm = apt.pricePerSqm ?? 1400;
-        const n = parseFloat(apt.size.replace(/[^\d.]/g, ''));
-        if (!n) return null;
-        return (n * ppm).toLocaleString('de-DE', { maximumFractionDigits: 0 }) + ' €';
+        if (!apt.totalPrice) return null;
+        return apt.totalPrice.toLocaleString('de-DE', { maximumFractionDigits: 0 }) + ' €';
     };
 
     const groundCount = 20;

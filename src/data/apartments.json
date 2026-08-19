@@ -33,7 +33,8 @@
       ]
     },
     "image": "stanovi/apt1.jpg",
-    "pricePerSqm": 2100
+    "pricePerSqm": 2100,
+    "totalPrice": 65520
   },
   {
     "id": "apt2",
@@ -69,7 +70,8 @@
       ]
     },
     "image": "stanovi/apt2.jpg",
-    "pricePerSqm": 2100
+    "pricePerSqm": 2100,
+    "totalPrice": 52605
   },
   {
     "id": "apt3",
@@ -105,7 +107,8 @@
       ]
     },
     "image": "stanovi/apt3.jpg",
-    "pricePerSqm": 2100
+    "pricePerSqm": 2100,
+    "totalPrice": 67200
   },
   {
     "id": "apt4",
@@ -141,7 +144,8 @@
       ]
     },
     "image": "stanovi/apt4.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 57328
   },
   {
     "id": "apt5",
@@ -177,7 +181,8 @@
       ]
     },
     "image": "stanovi/apt5.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 56576
   },
   {
     "id": "apt6",
@@ -213,7 +218,8 @@
       ]
     },
     "image": "stanovi/apt6.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 54736
   },
   {
     "id": "apt7",
@@ -249,7 +255,8 @@
       ]
     },
     "image": "stanovi/apt7.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 54912
   },
   {
     "id": "apt8",
@@ -285,7 +292,8 @@
       ]
     },
     "image": "stanovi/apt8.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 67712
   },
   {
     "id": "apt9",
@@ -317,7 +325,8 @@
       ]
     },
     "image": "stanovi/apt9.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 51632
   },
   {
     "id": "apt10",
@@ -349,7 +358,8 @@
       ]
     },
     "image": "stanovi/apt10.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 48160
   },
   {
     "id": "apt11",
@@ -381,7 +391,8 @@
       ]
     },
     "image": "stanovi/apt11.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 52570
   },
   {
     "id": "apt12",
@@ -417,7 +428,8 @@
       ]
     },
     "image": "stanovi/apt12.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 50848
   },
   {
     "id": "apt13",
@@ -450,7 +462,8 @@
     },
     "image": "stanovi/apt13.jpg",
     "status": "reserved",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 30128
   },
   {
     "id": "apt14",
@@ -482,7 +495,8 @@
       ]
     },
     "image": "stanovi/apt14.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 30128
   },
   {
     "id": "apt15",
@@ -514,7 +528,8 @@
       ]
     },
     "image": "stanovi/apt15.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 30128
   },
   {
     "id": "apt16",
@@ -546,7 +561,8 @@
       ]
     },
     "image": "stanovi/apt16.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 41860
   },
   {
     "id": "apt17",
@@ -579,7 +595,8 @@
     },
     "image": "stanovi/apt17.jpg",
     "status": "reserved",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 34874
   },
   {
     "id": "apt18",
@@ -615,7 +632,8 @@
       ]
     },
     "image": "stanovi/apt18.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 39620
   },
   {
     "id": "apt19",
@@ -651,7 +669,8 @@
       ]
     },
     "image": "stanovi/apt19.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 54432
   },
   {
     "id": "apt20",
@@ -687,7 +706,8 @@
       ]
     },
     "image": "stanovi/apt20.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 60788
   },
   {
     "id": "apt21",
@@ -724,7 +744,8 @@
       ]
     },
     "image": "stanovi/apt4.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 57328
   },
   {
     "id": "apt22",
@@ -761,7 +782,8 @@
       ]
     },
     "image": "stanovi/apt5.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 56576
   },
   {
     "id": "apt23",
@@ -798,7 +820,8 @@
       ]
     },
     "image": "stanovi/apt6.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 54736
   },
   {
     "id": "apt24",
@@ -835,7 +858,8 @@
       ]
     },
     "image": "stanovi/apt7.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 54912
   },
   {
     "id": "apt25",
@@ -881,7 +905,8 @@
     },
     "image": "stanovi/apt8.jpg",
     "status": "reserved",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 59318
   },
   {
     "id": "apt26",
@@ -918,7 +943,8 @@
       ]
     },
     "image": "stanovi/apt9.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 51632
   },
   {
     "id": "apt27",
@@ -951,7 +977,8 @@
       ]
     },
     "image": "stanovi/apt10.jpg",
-    "pricePerSqm": 1600
+    "pricePerSqm": 1600,
+    "totalPrice": 48160
   },
   {
     "id": "apt28",
@@ -988,7 +1015,8 @@
       ]
     },
     "image": "stanovi/apt11.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 52570
   },
   {
     "id": "apt29",
@@ -1026,7 +1054,8 @@
     },
     "image": "stanovi/apt12.jpg",
     "status": "reserved",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 50848
   },
   {
     "id": "apt30",
@@ -1059,7 +1088,8 @@
       ]
     },
     "image": "stanovi/apt30.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 41468
   },
   {
     "id": "apt31",
@@ -1093,7 +1123,8 @@
     },
     "image": "stanovi/apt14.jpg",
     "status": "reserved",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 30128
   },
   {
     "id": "apt32",
@@ -1127,7 +1158,8 @@
     },
     "image": "stanovi/apt15.jpg",
     "status": "reserved",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 30128
   },
   {
     "id": "apt33",
@@ -1160,7 +1192,8 @@
       ]
     },
     "image": "stanovi/apt33.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 31682
   },
   {
     "id": "apt34",
@@ -1197,7 +1230,8 @@
       ]
     },
     "image": "stanovi/apt34.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 49140
   },
   {
     "id": "apt35",
@@ -1235,7 +1269,8 @@
     },
     "image": "stanovi/apt18.jpg",
     "status": "reserved",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 39620
   },
   {
     "id": "apt36",
@@ -1276,7 +1311,8 @@
       ]
     },
     "image": "stanovi/apt19.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 54432
   },
   {
     "id": "apt37",
@@ -1321,6 +1357,7 @@
       ]
     },
     "image": "stanovi/apt20.jpg",
-    "pricePerSqm": 1400
+    "pricePerSqm": 1400,
+    "totalPrice": 60788
   }
 ]
