@@ -160,7 +160,7 @@ export default function Apartments() {
                                             <span className="text-slate-500">Rezervisan</span>
                                         </div>
                                         <div className="flex items-center gap-1.5">
-                                            <div className="w-3 h-3 rounded-full bg-emerald-400"></div>
+                                            <div className="w-3 h-3 rounded-full bg-blue-400"></div>
                                             <span className="text-slate-500">Slobodan</span>
                                         </div>
                                     </div>
